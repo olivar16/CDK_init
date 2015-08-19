@@ -1,0 +1,56 @@
+<?xml version='1.0'?>
+<config id="config">
+	<Registry
+		key="HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\Domains"
+		name="[http]"
+		value="2"
+		valueKind="DWord">
+		</Registry>
+	<Registry
+		key="HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\Domains"
+		name="[HKEY_CURRENT_USER]"
+		value="2"
+		valueKind="String">
+		</Registry>
+		<Registry
+		key="HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\Domains"
+		name="[HKEY_CURRENT_USER]"
+		value="2">
+		</Registry>
+		<File
+			FullPath="Documents\Bluezone\config.docx"
+			Name="config.docx"
+			rootLocation="Documents"
+			UserContainingDirectory="Bluezone"
+			BackupContainingDirectory="Bluezone">
+			</File>
+			<File
+			FullPath="Documents\Bluezone\config.docx"
+			Name="config.docx"
+			rootLocation="Documents"
+			UserContainingDirectory="Bluezone"
+			BackupContainingDirectory="Bluezone">
+			</File>
+			<Ini
+				FullPath="Documents\IniDocuments\IniFoldersIni.Ini"
+				PathRoot="Documents"
+				PathPostRoot="IniDocuments\IniFoldersIni.Ini"
+				Section="StatusBar"
+				Key="Color"
+				Value="0x00F0F0F0">
+			</Ini>
+			<Ini
+				FullPath="Documents\IniDocuments\IniFoldersIni.Ini"
+				PathRoot="Documents"
+				PathPostRoot="IniDocuments\IniFoldersIni.Ini"
+				Section="ToolBar"
+				Key="Color"
+				Value="0x00E2E2E2">
+			</Ini>
+			
+			
+</config>
+
+
+
+
